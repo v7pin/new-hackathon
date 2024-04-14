@@ -51,5 +51,5 @@ Garuda enhances urban public safety through a real-time surveillance web applica
 This project is an adaptation and continuation of previous work conducted in the domain of public safety surveillance. Previous implementations focused primarily on manual monitoring and lacked real-time processing capabilities. The last 28 hours have been dedicated to integrating real-time crime detection technology and blockchain for secure criminal profiling.
 
 ## Overview Video Link
-[Garuda Overview Video]([https://www.youtube.com/link_to_video](https://youtu.be/uGqRFKbLX5c))
+[Garuda Overview Video](https://youtu.be/uGqRFKbLX5c)
 
